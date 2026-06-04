@@ -7,4 +7,4 @@
 
 ## Preview
 
-![Website Preview](https://cdn.hackclub.com/019e907b-15b6-7c76-9a75-6947aa3c11af/screenshot.png)
+![Website Preview](https://cdn.hackclub.com/019e9095-86b6-73af-b3c3-ba4c212e370a/progile.png)
